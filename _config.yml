@@ -1,8 +1,11 @@
 title: Code for Kobe
 description: Code for Japan brigade
 google_analytics: UA-93922008-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
+markdown: kramdown
 gems:
   - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
