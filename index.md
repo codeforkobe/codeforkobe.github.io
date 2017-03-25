@@ -20,7 +20,7 @@ ITで神戸をもっと素敵な街にするため活動するコミュニティ
 {% for post in site.posts %}
 <li>
   <a class="post-link" href="{{ post.url }}">{{ post.title }}</a> ---
-  <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
 </li>
 {% endfor %}
 </ul>
