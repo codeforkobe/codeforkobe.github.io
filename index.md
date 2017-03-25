@@ -27,10 +27,6 @@ ITで神戸をもっと素敵な街にするため活動するコミュニティ
 
 再整理中…
 
-* [22回定例](https://hackpad.com/Code-for-Kobe-22nd-meeting-gHpa0QMMtcw) 2016-11-17
-* [21回定例](https://hackpad.com/Code-for-Kobe-21st-meeting-RoDcy0hdjiX) 2016-10-20
-* [20回定例](https://hackpad.com/Code-for-Kobe-20th-meeting-qesv97aU0yZ) 2016-09-15
-* [19回定例](https://hackpad.com/Code-for-Kobe-19th-meeting-yimZESwpmX4) 2016-08-18
 * [Google for nonprofits 後プチ交流会](https://www.facebook.com/events/1558468817788579/) 2016-07-23
 * [18回定例](https://hackpad.com/Code-for-Kobe-18th-meeting-2KclCjYWSXF) 2016-07-21
 * 17回定例 2016-06-16
