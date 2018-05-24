@@ -28,9 +28,9 @@ ITで神戸をもっと素敵な街にするため活動するコミュニティ
 再整理中…
 
 * [Google for nonprofits 後プチ交流会](https://www.facebook.com/events/1558468817788579/) 2016-07-23
-* [18回定例](https://hackpad.com/Code-for-Kobe-18th-meeting-2KclCjYWSXF) 2016-07-21
+* [18回定例](https://paper.dropbox.com/doc/Code-for-Kobe-18th-meeting--ADW2FWrO2Q~OxtRfCSOuXrzGAQ-K9yESFpFkJUkK3IATnD2o) 2016-07-21
 * 17回定例 2016-06-16
-* [16回定例](https://hackpad.com/Code-for-Kobe-16th-Meeting-6Qci6I84uE3) 2016-05-19
+* [16回定例](https://paper.dropbox.com/doc/Code-for-Kobe-16th-Meeting-fZGe1UhcNNLsqKVFhpGQ1) 2016-05-19
 * [15回定例](https://github.com/codeforkobe/codeforkobe.github.io/wiki/15回定例) 2016-04-21
 * [14回定例](https://github.com/codeforkobe/codeforkobe.github.io/wiki/14回定例) 2016-03-17
 * [13回定例](https://github.com/codeforkobe/codeforkobe.github.io/wiki/13回定例) 2016-02-25
