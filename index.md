@@ -9,7 +9,7 @@ ITで神戸をもっと素敵な街にするため活動するコミュニティ
 メインサイトは[Facebook](https://www.facebook.com/codeforkobe)にあります。
 
 * [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/) : コミュニティメンバ同士の議論用
-* [ミーティング メモ](https://hackmd.io/c/S1sujZKzG) : 参加型メモ
+* [ミーティング メモ](https://hackmd.io/s/S1sujZKzG) : 参加型メモ
 * [Slack](https://codeforkobe.slack.com) : チャット
 * [イベント参加登録](https://www.codeforamerica.org/brigade/Code-for-Kobe/checkin)
 * [イベント活動グラフ](https://www.codeforamerica.org/brigade/Code-for-Kobe/attendance)
