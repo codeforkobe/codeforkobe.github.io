@@ -4,7 +4,9 @@ layout: default
 
 # About
 
-ITで神戸をもっと素敵な街にするため活動するコミュニティです。
+Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動するコミュニティ」です。
+
+[Code for Japan の Brigade](http://www.code4japan.org/brigade) に登録されていて、神戸を中心に活動しています。
 
 メインサイトは[Facebook](https://www.facebook.com/codeforkobe)にあります。
 
