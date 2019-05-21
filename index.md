@@ -10,6 +10,7 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 * [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/)
 上記のFacebook pages とは別にコミュニティメンバ同士の情報交換用のグループがあります。
 こちらは定例会に参加した人が参加できます。
+* [twitter](https://twitter.com/codeforkobe) : （気まぐれ運用中）
 * [hackmd](https://hackmd.io/s/S1sujZKzG) : 定例会などは、参加型でメモを取っています。
 * [Slack](https://codeforkobe.slack.com) : チャット
 * [イベント参加登録](https://www.codeforamerica.org/brigade/Code-for-Kobe/checkin) : Code for America での登録
