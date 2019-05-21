@@ -2,22 +2,35 @@
 layout: default
 ---
 
-# About
-
 Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動するコミュニティ」です。
 
 [Code for Japan の Brigade](http://www.code4japan.org/brigade) に登録されていて、神戸を中心に活動しています。
 
-メインサイトは[Facebook](https://www.facebook.com/codeforkobe)にあります。
-
-* [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/) : コミュニティメンバ同士の議論用
-* [ミーティング メモ](https://hackmd.io/s/S1sujZKzG) : 参加型メモ
+* メインとなるイベント告知などは[Facebook](https://www.facebook.com/codeforkobe) page にあります。
+* [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/)
+上記のFacebook pages とは別にコミュニティメンバ同士の情報交換用のグループがあります。
+こちらは定例会に参加した人が参加できます。
+* [hackmd](https://hackmd.io/s/S1sujZKzG) : 定例会などは、参加型でメモを取っています。
 * [Slack](https://codeforkobe.slack.com) : チャット
-* [イベント参加登録](https://www.codeforamerica.org/brigade/Code-for-Kobe/checkin)
-* [イベント活動グラフ](https://www.codeforamerica.org/brigade/Code-for-Kobe/attendance)
+* [イベント参加登録](https://www.codeforamerica.org/brigade/Code-for-Kobe/checkin) : Code for America での登録
+* [イベント活動グラフ](https://www.codeforamerica.org/brigade/Code-for-Kobe/attendance) : Code for America での登録
 * [wiki](https://github.com/codeforkobe/codeforkobe.github.io/wiki)
+* Code for Kobe [ロゴ規定書](http://codeforkobe.github.io/logo/cfk_logo_spec.pdf) / [Illustrator file](http://codeforkobe.github.io/logo/cfk_logo_fix.ai)
 
-# Meeting memo
+
+
+# 定例会メモ
+
+月次で定例会を開催しています。「こんなことやってるよ」「こんなのどうかな？」という話をしています。
+最近は[hackmd](https://hackmd.io/c/S1sujZKzG)で、みんなでメモを取るスタイルでやっています。
+
+<ul>
+{% for post in site.data.logs %}
+<li><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+# アーカイブ
 
 <ul>
 {% for post in site.posts %}
@@ -27,8 +40,6 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 </li>
 {% endfor %}
 </ul>
-
-再整理中…（基本的には hackmd に移行しています）
 
 * [Google for nonprofits 後プチ交流会](https://www.facebook.com/events/1558468817788579/) 2016-07-23
 * [18回定例](https://paper.dropbox.com/doc/Code-for-Kobe-18th-meeting--ADW2FWrO2Q~OxtRfCSOuXrzGAQ-K9yESFpFkJUkK3IATnD2o) 2016-07-21
@@ -76,9 +87,6 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
   * http://bouzuya.hatenablog.com/entry/2014/12/28/235959
 * [キックオフ](https://github.com/codeforkobe/codeforkobe.github.io/wiki/キックオフ) 2014-12-10
 
-## データ
-* [ロゴ規定書](http://codeforkobe.github.io/logo/cfk_logo_spec.pdf)
-* [ロゴ Illustrator file](http://codeforkobe.github.io/logo/cfk_logo_fix.ai)
 
 ## リンク集
 * [神戸市オープンデータ Facebook](https://www.facebook.com/%E7%A5%9E%E6%88%B8%E5%B8%82%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%83%87%E3%83%BC%E3%82%BF-1015998728412821/)
