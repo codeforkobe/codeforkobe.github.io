@@ -16,7 +16,7 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 * [イベント活動グラフ](https://www.codeforamerica.org/brigade/Code-for-Kobe/attendance) : Code for America での登録
 * [wiki](https://github.com/codeforkobe/codeforkobe.github.io/wiki)
 * Code for Kobe [ロゴ規定書](http://codeforkobe.github.io/logo/cfk_logo_spec.pdf) / [Illustrator file](http://codeforkobe.github.io/logo/cfk_logo_fix.ai)
-
+* [Code of Conduct](CODE_OF_CONDUCT.html)
 
 
 # 定例会メモ
