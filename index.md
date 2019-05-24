@@ -10,6 +10,8 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 * [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/)
 上記の Facebook page とは別にコミュニティメンバ同士の情報交換用のグループがあります。
 こちらは定例会に参加した人が参加できます。
+* [Code of Conduct](CODE_OF_CONDUCT.html) : 一般的に「行動規範」と呼ばれる文書ですが、
+そんなに堅苦しいものではなく、当たり前のことが当たり前であるように、との思いで書いてあります。
 * [twitter](https://twitter.com/codeforkobe) : （気まぐれ運用中）
 * [hackmd](https://hackmd.io/s/S1sujZKzG) : 定例会などは、参加型でメモを取っています。
 * [Slack](https://codeforkobe.slack.com) : チャット
@@ -17,7 +19,6 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 * [イベント活動グラフ](https://www.codeforamerica.org/brigade/Code-for-Kobe/attendance) : Code for America での登録
 * [wiki](https://github.com/codeforkobe/codeforkobe.github.io/wiki)
 * Code for Kobe [ロゴ規定書](http://codeforkobe.github.io/logo/cfk_logo_spec.pdf) / [Illustrator file](http://codeforkobe.github.io/logo/cfk_logo_fix.ai)
-* [Code of Conduct](CODE_OF_CONDUCT.html)
 
 
 # 定例会メモ
