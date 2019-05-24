@@ -4,11 +4,11 @@ layout: default
 
 Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動するコミュニティ」です。
 
-[Code for Japan の Brigade](http://www.code4japan.org/brigade) に登録されていて、神戸を中心に活動しています。
+[Code for Japan の Brigade](http://www.code4japan.org/brigade) に登録されていて、神戸を中心に活動している任意団体です。
 
-* メインとなるイベント告知などは[Facebook](https://www.facebook.com/codeforkobe) page にあります。
+* [Code for Kobe](https://www.facebook.com/codeforkobe) : イベント告知などが掲載される Facebook page です。
 * [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/)
-上記のFacebook pages とは別にコミュニティメンバ同士の情報交換用のグループがあります。
+上記の Facebook page とは別にコミュニティメンバ同士の情報交換用のグループがあります。
 こちらは定例会に参加した人が参加できます。
 * [twitter](https://twitter.com/codeforkobe) : （気まぐれ運用中）
 * [hackmd](https://hackmd.io/s/S1sujZKzG) : 定例会などは、参加型でメモを取っています。
