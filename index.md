@@ -6,7 +6,7 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 
 [Code for Japan の Brigade](http://www.code4japan.org/brigade) に登録されていて、神戸を中心に活動している任意団体です。
 
-* [Code for Kobe](https://www.facebook.com/codeforkobe) : イベント告知などが掲載される Facebook page です。
+* [Code for Kobe](https://www.facebook.com/codeforkobe) : イベント告知などが掲載される Facebook page です。参加はこちらからどうぞ。
 * [Code for Kobe Connect](https://www.facebook.com/groups/1536379276600668/)
 上記の Facebook page とは別にコミュニティメンバ同士の情報交換用のグループがあります。
 こちらは定例会に参加した人が参加できます。
@@ -15,8 +15,6 @@ Code for Kobe は、「ITで神戸をもっと素敵な街にするため活動�
 * [twitter](https://twitter.com/codeforkobe) : （気まぐれ運用中）
 * [hackmd](https://hackmd.io/s/S1sujZKzG) : 定例会などは、参加型でメモを取っています。
 * [Slack](https://codeforkobe.slack.com) : チャット
-* [イベント参加登録](https://www.codeforamerica.org/brigade/Code-for-Kobe/checkin) : Code for America での登録
-* [イベント活動グラフ](https://www.codeforamerica.org/brigade/Code-for-Kobe/attendance) : Code for America での登録
 * [wiki](https://github.com/codeforkobe/codeforkobe.github.io/wiki)
 * Code for Kobe [ロゴ規定書](http://codeforkobe.github.io/logo/cfk_logo_spec.pdf) / [Illustrator file](http://codeforkobe.github.io/logo/cfk_logo_fix.ai)
 
